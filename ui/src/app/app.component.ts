@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-
+import "@phosphor-icons/webcomponents/PhHorse";
 @Component({
   selector: 'app-root',
   imports: [RouterOutlet],
