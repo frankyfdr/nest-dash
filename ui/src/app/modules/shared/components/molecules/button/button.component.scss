@@ -1,0 +1,18 @@
+.primary{
+  @apply ring-1 ring-thunder hover:ring-0 hover:scale-105
+  hover:shadow-lg hover:bg-mountain-meadow hover:text-harp
+  focus-visible:ring-mountain-meadow focus-visible:ring-2
+  border-0 focus-visible:outline-none bg-transparent text-thunder;
+}
+
+.secondary{
+
+}
+
+tertiary{
+
+}
+
+button{
+  @apply px-4 py-2 font-bold rounded-lg transition-all duration-300 active:opacity-75;
+}
